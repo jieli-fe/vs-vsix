@@ -1,1 +1,2 @@
-# vs-vsix
+vsix list
+

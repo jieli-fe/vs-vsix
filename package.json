@@ -1,6 +1,6 @@
 {
   "name": "vs-vsix",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "vsix list",
   "main": "index.js",
   "scripts": {
